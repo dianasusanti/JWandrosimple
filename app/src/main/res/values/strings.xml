@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NWT Reader</string>
+    <string name="select_book">Pilih kitab</string>
+    <string name="select_chapter">Pasal</string>
+    <string name="select_verse">Ayat (opsional, lompat ke sini)</string>
+    <string name="no_data_title">Teks belum tersedia</string>
+    <string name="no_data_body">Belum ada file teks untuk kitab ini di assets/bible/. Lihat README untuk cara menambahkannya.</string>
+    <string name="prev_chapter">⟵ Pasal sebelumnya</string>
+    <string name="next_chapter">Pasal berikutnya ⟶</string>
+</resources>

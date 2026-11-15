@@ -1,0 +1,332 @@
+[
+  {
+    "code": "kejadian",
+    "name": "Kejadian",
+    "chapters": 50
+  },
+  {
+    "code": "keluaran",
+    "name": "Keluaran",
+    "chapters": 40
+  },
+  {
+    "code": "imamat",
+    "name": "Imamat",
+    "chapters": 27
+  },
+  {
+    "code": "bilangan",
+    "name": "Bilangan",
+    "chapters": 36
+  },
+  {
+    "code": "ulangan",
+    "name": "Ulangan",
+    "chapters": 34
+  },
+  {
+    "code": "yosua",
+    "name": "Yosua",
+    "chapters": 24
+  },
+  {
+    "code": "hakim_hakim",
+    "name": "Hakim-Hakim",
+    "chapters": 21
+  },
+  {
+    "code": "rut",
+    "name": "Rut",
+    "chapters": 4
+  },
+  {
+    "code": "1samuel",
+    "name": "1 Samuel",
+    "chapters": 31
+  },
+  {
+    "code": "2samuel",
+    "name": "2 Samuel",
+    "chapters": 24
+  },
+  {
+    "code": "1raja",
+    "name": "1 Raja-Raja",
+    "chapters": 22
+  },
+  {
+    "code": "2raja",
+    "name": "2 Raja-Raja",
+    "chapters": 25
+  },
+  {
+    "code": "1tawarikh",
+    "name": "1 Tawarikh",
+    "chapters": 29
+  },
+  {
+    "code": "2tawarikh",
+    "name": "2 Tawarikh",
+    "chapters": 36
+  },
+  {
+    "code": "ezra",
+    "name": "Ezra",
+    "chapters": 10
+  },
+  {
+    "code": "nehemia",
+    "name": "Nehemia",
+    "chapters": 13
+  },
+  {
+    "code": "ester",
+    "name": "Ester",
+    "chapters": 10
+  },
+  {
+    "code": "ayub",
+    "name": "Ayub",
+    "chapters": 42
+  },
+  {
+    "code": "mazmur",
+    "name": "Mazmur",
+    "chapters": 150
+  },
+  {
+    "code": "amsal",
+    "name": "Amsal",
+    "chapters": 31
+  },
+  {
+    "code": "pengkhotbah",
+    "name": "Pengkhotbah",
+    "chapters": 12
+  },
+  {
+    "code": "kidung_agung",
+    "name": "Kidung Agung",
+    "chapters": 8
+  },
+  {
+    "code": "yesaya",
+    "name": "Yesaya",
+    "chapters": 66
+  },
+  {
+    "code": "yeremia",
+    "name": "Yeremia",
+    "chapters": 52
+  },
+  {
+    "code": "ratapan",
+    "name": "Ratapan",
+    "chapters": 5
+  },
+  {
+    "code": "yehezkiel",
+    "name": "Yehezkiel",
+    "chapters": 48
+  },
+  {
+    "code": "daniel",
+    "name": "Daniel",
+    "chapters": 12
+  },
+  {
+    "code": "hosea",
+    "name": "Hosea",
+    "chapters": 14
+  },
+  {
+    "code": "yoel",
+    "name": "Yoel",
+    "chapters": 3
+  },
+  {
+    "code": "amos",
+    "name": "Amos",
+    "chapters": 9
+  },
+  {
+    "code": "obaja",
+    "name": "Obaja",
+    "chapters": 1
+  },
+  {
+    "code": "yunus",
+    "name": "Yunus",
+    "chapters": 4
+  },
+  {
+    "code": "mikha",
+    "name": "Mikha",
+    "chapters": 7
+  },
+  {
+    "code": "nahum",
+    "name": "Nahum",
+    "chapters": 3
+  },
+  {
+    "code": "habakuk",
+    "name": "Habakuk",
+    "chapters": 3
+  },
+  {
+    "code": "zefanya",
+    "name": "Zefanya",
+    "chapters": 3
+  },
+  {
+    "code": "hagai",
+    "name": "Hagai",
+    "chapters": 2
+  },
+  {
+    "code": "zakharia",
+    "name": "Zakharia",
+    "chapters": 14
+  },
+  {
+    "code": "maleakhi",
+    "name": "Maleakhi",
+    "chapters": 4
+  },
+  {
+    "code": "matius",
+    "name": "Matius",
+    "chapters": 28
+  },
+  {
+    "code": "markus",
+    "name": "Markus",
+    "chapters": 16
+  },
+  {
+    "code": "lukas",
+    "name": "Lukas",
+    "chapters": 24
+  },
+  {
+    "code": "yohanes",
+    "name": "Yohanes",
+    "chapters": 21
+  },
+  {
+    "code": "kisah",
+    "name": "Kisah",
+    "chapters": 28
+  },
+  {
+    "code": "roma",
+    "name": "Roma",
+    "chapters": 16
+  },
+  {
+    "code": "1korintus",
+    "name": "1 Korintus",
+    "chapters": 16
+  },
+  {
+    "code": "2korintus",
+    "name": "2 Korintus",
+    "chapters": 13
+  },
+  {
+    "code": "galatia",
+    "name": "Galatia",
+    "chapters": 6
+  },
+  {
+    "code": "efesus",
+    "name": "Efesus",
+    "chapters": 6
+  },
+  {
+    "code": "filipi",
+    "name": "Filipi",
+    "chapters": 4
+  },
+  {
+    "code": "kolose",
+    "name": "Kolose",
+    "chapters": 4
+  },
+  {
+    "code": "1tesalonika",
+    "name": "1 Tesalonika",
+    "chapters": 5
+  },
+  {
+    "code": "2tesalonika",
+    "name": "2 Tesalonika",
+    "chapters": 3
+  },
+  {
+    "code": "1timotius",
+    "name": "1 Timotius",
+    "chapters": 6
+  },
+  {
+    "code": "2timotius",
+    "name": "2 Timotius",
+    "chapters": 4
+  },
+  {
+    "code": "titus",
+    "name": "Titus",
+    "chapters": 3
+  },
+  {
+    "code": "filemon",
+    "name": "Filemon",
+    "chapters": 1
+  },
+  {
+    "code": "ibrani",
+    "name": "Ibrani",
+    "chapters": 13
+  },
+  {
+    "code": "yakobus",
+    "name": "Yakobus",
+    "chapters": 5
+  },
+  {
+    "code": "1petrus",
+    "name": "1 Petrus",
+    "chapters": 5
+  },
+  {
+    "code": "2petrus",
+    "name": "2 Petrus",
+    "chapters": 3
+  },
+  {
+    "code": "1yohanes",
+    "name": "1 Yohanes",
+    "chapters": 5
+  },
+  {
+    "code": "2yohanes",
+    "name": "2 Yohanes",
+    "chapters": 1
+  },
+  {
+    "code": "3yohanes",
+    "name": "3 Yohanes",
+    "chapters": 1
+  },
+  {
+    "code": "yudas",
+    "name": "Yudas",
+    "chapters": 1
+  },
+  {
+    "code": "wahyu",
+    "name": "Wahyu",
+    "chapters": 22
+  }
+]
